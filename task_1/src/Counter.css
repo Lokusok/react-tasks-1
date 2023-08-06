@@ -1,0 +1,15 @@
+.counter {
+  padding: 20px;
+  border: 2px dashed skyblue;
+  display: inline-flex;
+  column-gap: 20px;
+}
+
+.counter__button {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.counter__input {
+  width: 2ex;
+}
